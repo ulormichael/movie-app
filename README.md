@@ -1,2 +1,2 @@
 # movie-app
-Designed by Ulorseries 
+Designed by Ulorseries. Visit the site here: https://ulormichael.github.io/movie-app/
